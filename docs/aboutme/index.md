@@ -1,2 +1,5 @@
-#About Me
-This is how to edit
+<img width="1536" height="2048" alt="Taylor McHone" src="https://github.com/user-attachments/assets/46f9e3ae-7459-4eb0-a7ba-0e48678a6c4b" />
+
+Hey y'all, my name is Taylor McHone. I am a third year mechanical engineering student with a concentration in motorsports here at the University of North Carolina at Charlotte. This page will primarily be used to communicate with others about assignments for Sophomore Design Lab, or MEGR 2156/2157.
+
+I have always loved race cars. Since I can remember, every Sunday after church, my mama and I would lay down in my parents' bedroom and watch the race. Seeing the cars change, mainly from the Gen 6 car (I do not remember much of the Car of Tomorrow era) to the Next Gen car, or the Gen 7 car, has helped shape the career path I decided to take. With the introduction of the Next Gen car in 2022, and all of the injuries and questions surrounding the safety upon the mid-point of the inaugural Next Gen season pushed me into action my junior year of high school. Through Charlotte and their connections to NASCAR, I aim to continue to push the cutting edge of innovation while keeping and maintaining the old roots NASCAR is known for, and keeping the drivers safe as a whole so generations after can continue to enjoy the sport.  
