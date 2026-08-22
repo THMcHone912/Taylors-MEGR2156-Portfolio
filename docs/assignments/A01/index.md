@@ -75,7 +75,7 @@ An important design decision visible in the chair's geometry is the usage of the
 ## Decide
 1. Homepage Identity: For my portfolio, readers and viewers need to immediately understand what the purpose the portfolio and homepage are used for, and the contents pertaining to MEGR 2145/Sophomore Design.
 
-2. One Intentional Customization: I will name my assignments in the portfolio. This will help both readers/viewers and me look at assignments, and see what it is about. When I look back on these assignments, seeing the names of the work I have done in the past will help jog my brain on design projects in this class.
+2. One Intentional Customization: I will name my assignments in the portfolio. This will help both readers/viewers and me look at assignments, and see what it is about. When I look back on these assignments, seeing the names of the work I have done in the past will help jog my brain on design projects in this class. I changed the names by accessing the mkdocs.ylm file and added the assignment names to each assignment.
 
 3. Your Documentation Standard: I am committing both my readers/viewers and myself to viewing and using concise, clear, and professional language when explaining the decisions and processes in this class in terms of engineering. I will also continue to work on sharpening my tone and conveying my decisions and the processes used in the assignments as well.
 
