@@ -43,6 +43,7 @@ Deflection Analysis
 I calculated the minimum required height of the crosshead based on deflection using 6061-T6 aluminum. I used an applied load of 2000 N, a length of 300 mm, a width of 100 mm, and a maximum allowable deflection of 0.1 mm. The calculated minimum height was 26.96 mm. Since this was greater than the height required from the stress analysis, deflection controlled the design. I then substituted the calculated height back into the deflection equation and obtained a deflection of approximately 0.09999 mm, which is below the allowable 0.1 mm. Therefore, the deflection requirement was satisfied.
 
 Multiview Sketch
+
 <img width="763" height="523" alt="image" src="https://github.com/user-attachments/assets/7e849a54-d5d5-4ea9-84b9-224d0ba9d0db" />
 
 Tabulating Costs
