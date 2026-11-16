@@ -31,11 +31,13 @@ For the nut and flange section, I analyzed the internal thread of my selected 67
 ## Crosshead- Dina Chouffani
 
 Strength Analysis
+
 <img width="685" height="990" alt="image" src="https://github.com/user-attachments/assets/9e3d7046-cdfe-45b6-8e97-d08a1b03819d" />
 
 I calculated the minimum required height of the crosshead based on bending stress using 6061-t6 aluminum. I used an applied load of 2000 N, a length of 300 mm, a width of 100mm, a yield strength of 241 N/mm^2, and a factor of safety of 4. I used the equilibrium equations to determine the reaction forces at each support, which were both 1000 N. I then calculated the maximum bending moment and used the bending stress equation along with the allowable stress to solve for the minimum required height. The calculated height was 12.2 mm, which satisfies the bending stress requirement with a factor of safety of 4.
 
 Deflection Analysis
+
 <img width="646" height="990" alt="image" src="https://github.com/user-attachments/assets/54a1d6d2-01ab-4f58-9241-0ce2e0971359" />
 
 I calculated the minimum required height of the crosshead based on deflection using 6061-T6 aluminum. I used an applied load of 2000 N, a length of 300 mm, a width of 100 mm, and a maximum allowable deflection of 0.1 mm. The calculated minimum height was 26.96 mm. Since this was greater than the height required from the stress analysis, deflection controlled the design. I then substituted the calculated height back into the deflection equation and obtained a deflection of approximately 0.09999 mm, which is below the allowable 0.1 mm. Therefore, the deflection requirement was satisfied.
