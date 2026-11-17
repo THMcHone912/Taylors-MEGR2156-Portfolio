@@ -48,10 +48,6 @@ Multiview Sketch
 
 Tabulating Costs
 
-| Item # | Quantity | Name| Cost/Item Cost | Purchase Link |
-| --- | --- | --- |
-|804T48 Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
-| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
 Item #	Quantity	Name	Cost/Item	Cost	Purchase Link
 804T48	1	40 Series T-Slot Aluminum Framing, 80 mm × 40 mm, 3 m Long	$245.87	$245.87	Grainger
 95120A592	2	932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH	$111.78	$223.56	McMaster-Carr
