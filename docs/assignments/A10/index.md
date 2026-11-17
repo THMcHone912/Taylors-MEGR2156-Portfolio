@@ -47,10 +47,50 @@ Multiview Sketch
 <img width="763" height="523" alt="image" src="https://github.com/user-attachments/assets/7e849a54-d5d5-4ea9-84b9-224d0ba9d0db" />
 
 Tabulating Costs
+Item #	Quantity	Name	Cost/Item	Cost	Purchase Link
+804T48	1	40 Series T-Slot Aluminum Framing, 80 mm × 40 mm, 3 m Long	$245.87	$245.87	Grainger
+95120A592	2	932 Bearing Bronze ACME Flange Nut, 3/8"-12 RH	$111.78	$223.56	McMaster-Carr
+98935A817	2	Carbon Steel ACME Lead Screw, 3/8"-12 RH, 36" Long	$10.15	$20.30	McMaster-Carr
+Total Cost	$489.73	
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## CAD MODEL-Nicholas Cornetta
 
-## Communicate
-Parametric Modeling
-Lessons Learned
+For the parametric modeling portion of this assignment, I used Creo Parametric to design the crosshead based on my group's strength and deflection calculations. I created the crosshead using 6061-T6 aluminum with dimensions of 360 mm in length, 100 mm in width, and 30 mm in thickness. I then added the leadscrew holes, spacing them 300 mm apart to align with the leadscrew system. One challenge I encountered was determining the correct hole dimensions to ensure the selected leadscrews and bronze flange nuts would fit properly. I learned how important it is to reference the actual dimensions of purchased components when designing a part in CAD, since incorrect dimensions can create problems during assembly. This assignment also helped me better understand how engineering calculations influence the dimensions and features of a part and how parametric modeling allows changes to be made efficiently throughout the design process.
+
+Crosshead
+
+<img width="1794" height="712" alt="image" src="https://github.com/user-attachments/assets/d70e9263-deea-4ba8-b71f-501a0193e88a" />
+
+<img width="1545" height="678" alt="image" src="https://github.com/user-attachments/assets/22eadeec-a3d9-41db-ab53-885b409c5154" />
+
+<img width="949" height="756" alt="image" src="https://github.com/user-attachments/assets/e84fb9b2-374a-4eb5-b2a0-7e00eea2431f" />
+
+Frame
+<img width="1737" height="663" alt="image" src="https://github.com/user-attachments/assets/26ca6b5a-75e4-4aba-85a8-5216c8fcd3ab" />
+
+Flange Nut
+<img width="682" height="673" alt="image" src="https://github.com/user-attachments/assets/dcd1b70f-9a63-4ba5-872e-cfecbab1984b" />
+
+Lead Screw
+<img width="1977" height="1044" alt="image" src="https://github.com/user-attachments/assets/8c0458a4-8539-499e-904e-21e749f3565e" />
+
+Assembly
+<img width="1596" height="1041" alt="image" src="https://github.com/user-attachments/assets/c34ec927-95fd-4c2a-9af0-bbeb8cabaefc" />
+<img width="852" height="1050" alt="image" src="https://github.com/user-attachments/assets/2ce2ee07-4501-4be1-b1cb-1cfada99a240" />
+
+
+## Lessons Learned
+Our group spent approximately 7 hours combined completing this assignment. Throughout the project, we learned how to apply engineering calculations to design a functional leadscrew system capable of supporting a 2 kN tensile load while maintaining a safety factor of 4. One important lesson we learned was how much the assumptions made during the design process can influence the final results. For example, when calculating the torque required to rotate the leadscrews, we had to consider whether the leadscrews and bronze nuts would be lubricated or unlubricated. This decision directly affects the coefficient of friction, which changes the required torque and could require an entirely different set of calculations based on the selected conditions. We also learned the importance of verifying that purchased components are compatible with one another, especially when selecting matching thread sizes and determining the dimensions needed for the crosshead mounting holes. Another challenge was translating our theoretical calculations into a practical CAD model while ensuring that the dimensions satisfied the strength and deflection requirements. Overall, this project helped us better understand the relationship between engineering analysis, material selection, component compatibility, and parametric modeling, while reinforcing the importance of communication and coordination when working as a team. Each team members name is next to the sections that they did.
+
+## CAD Links
+Crosshead: https://drive.google.com/file/d/1bq0rhZXaWHBxbweBtz2RrmGjUecE42SP/view?usp=sharing
+
+Aluminium Frame: https://drive.google.com/file/d/13mhg8UuLy7-oSyzXsZ8ZKiqZM5FPr0Fl/view?usp=sharing
+
+Flange Nut: https://drive.google.com/file/d/1EfdXIEs1OBQqaJKWrXGXwagvW3R4AfEF/view?usp=sharing
+
+Lead Screw: https://drive.google.com/file/d/1x5t3TtvjypjKoXop3mC6aSoWEX3YOpd1/view?usp=sharing
+
+Assembly: https://drive.google.com/file/d/1CqJOj0KF37N2bUD-ZTlEuXUCZpqLVyjo/view?usp=sharing
+
+
